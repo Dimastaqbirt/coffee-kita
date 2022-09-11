@@ -36,19 +36,19 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav ms-auto mb-2 mb-lg-1">
             <li class="nav-item me-4">
-              <a class="nav-link " aria-current="page" href="baru.html">Home</a>
+              <a class="nav-link " aria-current="page" href="index.html">Home</a>
             </li>
             <li class="nav-item me-4">
-              <a class="nav-link" href="baru.html#tentang">Tentang</a>
+              <a class="nav-link" href="index.html#tentang">Tentang</a>
             </li>
             <li class="nav-item me-4">
-              <a class="nav-link active" href="baru.html#produk">Produk</a>
+              <a class="nav-link active" href="index.html#produk">Produk</a>
             </li>
             <li class="nav-item me-4">
-              <a class="nav-link" href="baru.html#artikel">Artikel</a>
+              <a class="nav-link" href="index.html#artikel">Artikel</a>
             </li>
             <li>
-              <a href="baru.html#kontak" class="btn btn-info fw-light text-white" role="button" data-bs-toggle="button">Contact Us</a>
+              <a href="index.html#kontak" class="btn btn-info fw-light text-white" role="button" data-bs-toggle="button">Contact Us</a>
             </li>
           </ul>
         </div>
